@@ -1,5 +1,6 @@
 🚗 General Motors & the Global Microchip Shortage – Operations Management Case Study<br>
 | A supply chain disruption analysis focused on GM’s semiconductor shortage, with sourcing, demand planning, and strategic recommendations to build future resilience.<br>
+
 📘 Overview<br>
 This operations management case study explores the microchip shortage crisis faced by General Motors (GM) during and after the COVID-19 pandemic. As one of the world’s largest automakers, GM was hit hard by supply chain disruptions that halted production across several plants and delayed vehicle deliveries globally.
 
@@ -9,6 +10,7 @@ Analyzing this issue through the lens of Sourcing & Supply Chain Management and 
 - Increased demand for personal electronics during the pandemic diverted chip supply from automotive to consumer tech.
 - GM’s reliance on global suppliers, especially in Taiwan, left the company vulnerable.
 - Forecasting challenges and lack of inventory buffer worsened the impact.<br>
+
 📊 Analysis Framework<br>
 - 📦 Sourcing & Supply Management
   - GM's supply chain was global and linear, lacking flexibility.
@@ -23,7 +25,8 @@ Analyzing this issue through the lens of Sourcing & Supply Chain Management and 
      1. Integrate real-time data and sales trends
      2. Use Pareto analysis to track top customers
      3. Incorporate bottom-up and top-down forecasting
-     4. Adapt to seasonality and supply-side risks
+     4. Adapt to seasonality and supply-side risks<br>
+     
 🔄 Strategic Recommendations<br>
 - Build and stockpile critical semiconductors
 - Vertically integrate chip production (goal set for 2025)
@@ -32,12 +35,14 @@ Analyzing this issue through the lens of Sourcing & Supply Chain Management and 
 - Implement supplier training and sustainability KPIs
 - Adopt hybrid sourcing and analytics-driven inventory management
 - Adjust vehicle features to include only essential tech during shortages<br>
+
 📍 Real Outcomes Observed
 - Shifted production timelines to meet market demand quickly
 - Restarted closed assembly plants in Oshawa and CAMI
 - Partnered with Qualcomm, Infineon, and others for new microcontroller families
 - Dealer inventory and chip availability started improving in late 2022
 - Set a production goal of 1M+ electric vehicles annually by 2025<br>
+
 📚 Concepts & Tools Applied
 - Global Supply Chain Strategy
 - Resilient Sourcing
